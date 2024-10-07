@@ -12,3 +12,4 @@
 /home/urmjsty/RiderProjects/TMPS0/TMPS/obj/Debug/net8.0/TMPS.pdb
 /home/urmjsty/RiderProjects/TMPS0/TMPS/obj/Debug/net8.0/TMPS.genruntimeconfig.cache
 /home/urmjsty/RiderProjects/TMPS0/TMPS/obj/Debug/net8.0/ref/TMPS.dll
+/home/urmjsty/RiderProjects/TMPS0/TMPS/obj/Debug/net8.0/TMPS.sourcelink.json
