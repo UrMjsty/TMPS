@@ -1,0 +1,14 @@
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/bin/Debug/net8.0/TMPS0
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/bin/Debug/net8.0/TMPS0.deps.json
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/bin/Debug/net8.0/TMPS0.runtimeconfig.json
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/bin/Debug/net8.0/TMPS0.dll
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/bin/Debug/net8.0/TMPS0.pdb
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/TMPS0.GeneratedMSBuildEditorConfig.editorconfig
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/TMPS0.AssemblyInfoInputs.cache
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/TMPS0.AssemblyInfo.cs
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/TMPS0.csproj.CoreCompileInputs.cache
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/TMPS0.dll
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/refint/TMPS0.dll
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/TMPS0.pdb
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/TMPS0.genruntimeconfig.cache
+/home/urmjsty/RiderProjects/TMPS0/TMPS0/obj/Debug/net8.0/ref/TMPS0.dll
