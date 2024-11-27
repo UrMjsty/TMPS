@@ -1,0 +1,15 @@
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/bin/Debug/net8.0/TMPS2
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/bin/Debug/net8.0/TMPS2.deps.json
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/bin/Debug/net8.0/TMPS2.runtimeconfig.json
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/bin/Debug/net8.0/TMPS2.dll
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/bin/Debug/net8.0/TMPS2.pdb
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.GeneratedMSBuildEditorConfig.editorconfig
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.AssemblyInfoInputs.cache
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.AssemblyInfo.cs
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.csproj.CoreCompileInputs.cache
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.sourcelink.json
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.dll
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/refint/TMPS2.dll
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.pdb
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/TMPS2.genruntimeconfig.cache
+/home/urmjsty/RiderProjects/TMPS0/TMPS2/obj/Debug/net8.0/ref/TMPS2.dll

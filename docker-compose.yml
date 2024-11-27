@@ -1,0 +1,6 @@
+﻿services:
+  tmps3:
+    image: tmps3
+    build:
+      context: .
+      dockerfile: TMPS3/Dockerfile

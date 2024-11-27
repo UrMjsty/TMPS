@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMPS", "TMPS\TMPS.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMPS2", "TMPS2\TMPS2.csproj", "{D26927D3-698E-426D-90B8-EB394B2ADB0A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F123DB23-B997-4AC0-9624-1EBB9F9FC010}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMPS3", "TMPS3\TMPS3.csproj", "{D25AAECF-5A95-4A98-8F69-B62D9181BF4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,9 @@ Global
 		{D26927D3-698E-426D-90B8-EB394B2ADB0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26927D3-698E-426D-90B8-EB394B2ADB0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26927D3-698E-426D-90B8-EB394B2ADB0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D25AAECF-5A95-4A98-8F69-B62D9181BF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25AAECF-5A95-4A98-8F69-B62D9181BF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25AAECF-5A95-4A98-8F69-B62D9181BF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25AAECF-5A95-4A98-8F69-B62D9181BF4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

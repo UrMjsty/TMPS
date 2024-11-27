@@ -19,6 +19,7 @@ public class VehicleMaintenanceFacade
         _engineCheck.Check();
         _oilChange.Change();
         _vehicleWash.Wash();
-        Console.WriteLine("All maintenance tasks completed.");
+        
+        Console.WriteLine("All maintenance tasks completed");
     }
 }
